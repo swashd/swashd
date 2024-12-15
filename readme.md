@@ -1,11 +1,8 @@
-#  [minecrafthvh] // SYSTEM_OVERRIDE
+#  SysAdmin certified by Microsoft
 
-## SysAdmin certified by Microsoft
 
 ```yaml
 status: ACTIVE
-security_clearance: MAX
-current_mission: Optimize && overdose
 ```
 
 
