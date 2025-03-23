@@ -1,4 +1,4 @@
 #  SysAdmin certified by Microsoft
-[![Discord Presence](https://lanyard.cnrad.dev/api/917455968013520966)](https://discord.com/users/917455968013520966)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1328368090731249716)](https://discord.com/users/1328368090731249716)
 
 
