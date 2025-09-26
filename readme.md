@@ -1,1 +1,1 @@
-[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/demo/?color=66F700&background=001CFF00&width=600&lines=Microsoft+Certified+Cyber+Security+Enthusiast))](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/demo/?color=66F700&background=001CFF00&width=600&lines=Microsoft+Certified+Cyber+Security+Enthusiast))]
