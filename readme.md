@@ -5,16 +5,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-Cyber%20Security%20Enthusiast-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=FF00FF" />
-  <img src="https://img.shields.io/badge/Scene%20Core-2000s%20Mall%20Emo-111111?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swashd&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swashd&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
 
