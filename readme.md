@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Certified-Cyber%20Security%20Enthusiast-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=FF00FF" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-Engineer-000000?style=for-the-badge&logo=lock&logoColor=white&labelColor=FF00FF" />
+
 </p>
 
 ---
